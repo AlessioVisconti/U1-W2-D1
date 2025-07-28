@@ -14,7 +14,7 @@ REGOLE
 /* Stringa: le stringhe vengono definiti tramiti gli apici doppi oppure l'apice singolo(meglio usare i doppi) es: "Ciao", "a", "12". Attenzione: scrivere Ciao invece che "Ciao" farà cercare una variabile di nome Ciao
    Numerico: i valori numerici posso essere interi e decimali, in questo ultimo caso si usano i punti per differenziarli es: 12 oppure 12.304
    Booleano: il dato booleano sono dati di ritorno ti dicono se una cosa è vera o falsa, sono solo questi due: true, false. Questo tipo di dato
-   server al programmo per capire che azione fare "se questa cosa è "true" fai questo se è "false" fai quest'altra cosa" */
+   serve al programma per capire che azione fare "se questa cosa è "true" fai questo se è "false" fai quest'altra cosa" */
 
 /* ESERCIZIO 2
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
